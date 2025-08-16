@@ -6,7 +6,7 @@ Test your memory by repeating the sequence of colors and sounds. Each level adds
 ---
 
 ## 🚀 Demo
-Play the game here: [Simon Game on GitHub Pages](https://Silversoul8.github.io/Simon-game/)
+Play the game here: [Simon Game on GitHub Pages]( https://silversoul8.github.io/Simon-game/)
 
 ---
 
